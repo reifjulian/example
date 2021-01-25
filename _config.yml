@@ -78,24 +78,11 @@ footer:
 
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: ""
-      type: 
-    values:
-      layout: splash
-      author_profile: false
+      layout: "default"
 
 category_archive:
   type: liquid
