@@ -35,17 +35,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
 # Plugins (previously gems:)
 plugins:
@@ -55,23 +44,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "Julian Reif"
-  #avatar : "/assets/images/reif.jpg"
-  bio    : "Assistant Professor of Finance and Economics"
-  links:
-    - label: "CV"
-      icon: "fa fa-fw fa-file-pdf"
-      url: "/cv/reif.cv.pdf"
-    - label: "Github"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/reifjulian"
-    - label: "Google Scholar"
-      icon: "fa fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=Tpe9XEcAAAAJ"      
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/JulianReif"
 
 footer:
   links:
