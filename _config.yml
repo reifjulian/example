@@ -1,5 +1,5 @@
 # Comments here
-title: Julian Reif2
+title: Julian Reif3
 
 minimal_mistakes_skin: contrast 
 #search: false
@@ -19,12 +19,12 @@ include:
 
 
 # Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jemoji
-  - jekyll-include-cache
+#plugins:
+#  - jekyll-paginate
+#  - jekyll-sitemap
+#  - jekyll-gist
+#  - jemoji
+#  - jekyll-include-cache
 
 
 defaults:
